@@ -1,6 +1,4 @@
 {
-  "name": "Node 22 Full-Stack Scaffolding Studio",
-  "description": "Next-gen Node.js 22 LTS scaffolding engine, architectural designer, and live playground with native Node 22 features, AI project generation, and full-stack templates.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "name": "Vibe Trading",
+  "description": "Vibe Trading — natural-language finance research agent team, backtesting, paper trading, and multi-market analysis."
 }
